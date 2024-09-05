@@ -1,4 +1,3 @@
-# info
-this is a info file.
-# creation
-sr
+# new project
+
+this project was created from local system.
